@@ -1,0 +1,20 @@
+{
+    "name": "bckend",
+    "version": "1.0.0",
+    "description": "back end para la clase de PW2",
+    "main": "index.js",
+    
+    "scripts": {
+        "start": "nodemon index.js",
+        "build": "",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alejandra Niño",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon" : "^2.0.12"
+    }
+}
